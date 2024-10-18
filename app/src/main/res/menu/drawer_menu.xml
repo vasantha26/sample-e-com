@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_order_summary"
+        android:title="@string/order_summary"
+        android:icon="@drawable/baseline_add_shopping_cart_24"
+       />
+</menu>
